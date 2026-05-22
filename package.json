@@ -1,0 +1,14 @@
+{
+  "name": "parallel-stack",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "parallel-stack": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "inquirer": "^12.0.0"
+  }
+}
